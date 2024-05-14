@@ -1,18 +1,18 @@
-# Frontend Mentor - Age calculator app solution
+# 🌟 Frontend Mentor - Age Calculator App Solution 🌟
 
 This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+## 📋 Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Built with](#built-with)
+  - [Built With](#built-with)
 
-## Overview
+## 🌐 Overview
 
-### The challenge
+### The Challenge
 
 Users should be able to:
 
@@ -24,22 +24,35 @@ Users should be able to:
   - The year is in the future
   - The date is invalid e.g. 31/04/1991 (there are 30 days in April)
 
-### Screenshot
+### 🖼️ Screenshot
 
-![](./assets/design/desktop-design.jpg)
-![](./assets/design/mobile-design.jpg)
+![Desktop Design](./assets/design/desktop-design.jpg)
+![Mobile Design](./assets/design/mobile-design.jpg)
 
-## Built with
+## 🛠️ Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 
-### Links
+### 🔗 Links
 
-- Solution URL: [Solution URL(GitHub)](https://github.com/sourabh-yalagod/Age-Calculating-APP-Js.git)
-- Live Site URL: [Live Site](https://sourabh-yalagod.github.io/Age-Calculating-APP-Js/)
+- Solution URL: [GitHub Repo](https://github.com/sourabh-yalagod/age-calculating-app)
+- Live Site URL: [Live Demo](https://sourabh-yalagod.github.io/age-calculating-app)
 
+## 🚀 Get Started
 
+To get started with this project:
 
+1. Clone this repository.
+2. Open the `index.html` file in your web browser.
+3. Try entering different dates to calculate ages!
+
+## 💡 Additional Info
+
+Feel free to explore the code and modify it as you wish. If you have any questions or suggestions, please reach out.
+
+## 🙌 Credits
+
+Special thanks to Frontend Mentor for providing this challenge. Let's keep coding and learning together! 🌱✨
